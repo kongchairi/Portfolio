@@ -9,7 +9,7 @@ class MyAplication extends StatelessWidget{
   Widget build(BuildContext context) {
    return const MaterialApp(
     debugShowCheckedModeBanner: false ,
-    home: Text("He"));
+    home: Text("Hello Kongchairai Marma"));
 
    
   }
